@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Handika</h1>
-<h3 align="center">You can call me Dyka and I'm a Web Developer, from Indonesia 📌</h3>
+<h3 align="center">You can call me Dyka, from Indonesia 📌</h3>
 
 
 <div align="center">
